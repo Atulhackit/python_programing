@@ -1,0 +1,6 @@
+name=input("enter your name :")#.split()
+age =input('enter yur age ')
+#print(name)
+print(name+' you are  ' +age+ ' years old.')
+print('{}you are {}years old'.format(name,age))
+print(f'{name} you are {age} years old')
